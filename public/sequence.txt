@@ -1,0 +1,30 @@
+consent
+demographics
+2 donut or 2 pie
+on the previous two charts did you primarily use angle, area, or arc-length? (include image)
+	angle
+	area
+	arc-length
+2 donut or 2 pie
+on the previous two charts did you primarily use angle, area, or arc-length? (include image)
+	angle
+	area
+	arc-length
+tutorial on angle, area, arc-length
+full study 60 questions, 10 of each type
+intermediate page
+2 donut or 2 pie
+on the previous two charts did you primarily use angle, area, or arc-length? (include image)
+	angle
+	area
+	arc-length
+2 donut or 2 pie
+on the previous two charts did you primarily use angle, area, or arc-length? (include image)
+	angle
+	area
+	arc-length
+debrief
+
+
+
+tutorial - show correct answer, but have them enter it
